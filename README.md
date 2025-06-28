@@ -9,13 +9,6 @@ Permite adicionar, visualizar, marcar como concluídas, excluir e salvar tarefas
 
 ---
 
-## 📷 Captura de Tela
-
-![Captura de tela tkinter](Captura de tela tkinter.png)
-
-
----
-
 ## 🛠️ Funcionalidades
 
 ✅ Adicionar nova tarefa  
