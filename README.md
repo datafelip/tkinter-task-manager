@@ -11,8 +11,8 @@ Permite adicionar, visualizar, marcar como concluídas, excluir e salvar tarefas
 
 ## 📷 Captura de Tela
 
-![Tkinter Task Manager Screenshot](![Captura de tela tkinter](https://github.com/user-attachments/assets/27af4768-8423-4d57-9d12-d5bd940a332c)
-)
+![Captura de tela tkinter](Captura de tela tkinter.png)
+
 
 ---
 
