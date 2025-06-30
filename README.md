@@ -25,7 +25,7 @@ Permite adicionar, visualizar, marcar como concluídas, excluir e salvar tarefas
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/tkinter-task-manager.git
+git clone https://github.com/datfelip/tkinter-task-manager.git
 cd tkinter-task-manager
 ````
 
